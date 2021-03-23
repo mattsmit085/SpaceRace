@@ -83,5 +83,14 @@
   <ItemGroup>
     <None Include="Resources\galaxy.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game Over sound effect.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Videogame Death Sound Effect HD _ No Copyright.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
